@@ -8,9 +8,6 @@ Automated builds are available for stable releases and the unstable master branc
 
 Official golang implementation of the usechain protocol.
 
-Automated builds are available for stable releases and the unstable master branch.
-Binary archives are published at https://usechain.usechain.org/downloads/.
-
 ## Contribution
 
 Thank you for considering to help out with the source code! We welcome contributions from
